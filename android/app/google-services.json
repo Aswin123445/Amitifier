@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40328375160",
+    "project_id": "amityfier",
+    "storage_bucket": "amityfier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40328375160:android:ed8749947d9e82bf19368d",
+        "android_client_info": {
+          "package_name": "com.example.animated_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OAYiaMvnQCjQP_BBJtBAGCvl4dwUmj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
