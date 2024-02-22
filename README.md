@@ -1,6 +1,7 @@
-# animated_login
+# Amitifier
 
-A new Flutter project.
+A flutter firebase project which will help users to make and maintain friendship <br>with loved ones
+
 
 ## Getting Started
 
