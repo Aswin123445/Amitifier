@@ -134,7 +134,7 @@ class _UserAccountScreenState extends State<UserAccountScreen> {
                             backgroundColor:
                                 const Color.fromARGB(255, 202, 200, 200),
                             backgroundImage:
-                                const AssetImage('asset/images/pofile.png'),
+                                const AssetImage('asset/images/pofileg.png'),
                           ),
                         Container(
                           margin: EdgeInsets.fromLTRB(15.5.w, 8.3.h, 1.w, .1.h),
