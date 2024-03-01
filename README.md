@@ -1,6 +1,6 @@
 # Amitifier
 
-A flutter firebase project which will help users to make and maintain friendship <br>with loved ones
+A flutter firebase project which will help users to make and maintain friendship <br>with loved once
 
 
 ## Getting Started
